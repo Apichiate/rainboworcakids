@@ -1,6 +1,7 @@
 // result.js - เวอร์ชันอัปเดต พร้อมโหลดจาก Supabase Storage
 console.log('🚀 DEBUG: result.js loaded - v12-Supabase-Storage');
 
+
 // Configuration
 const currentPath = window.location.pathname;
 const folderPath = currentPath.substring(0, currentPath.lastIndexOf('/'));
