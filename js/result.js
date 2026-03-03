@@ -1,5 +1,5 @@
 // result.js - เวอร์ชันอัปเดต พร้อมโหลดจาก Supabase Storage
-console.log('🚀 DEBUG: result.js loaded - v12-Supabase-Storage');
+console.log('🚀 DEBUG: result.js loaded - v1222-Supabase-Storage');
 
 
 // Configuration
